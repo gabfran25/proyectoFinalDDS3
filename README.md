@@ -3,7 +3,7 @@ proyectoFinalDDS3
 
 # Integrantes del equipo y número de expediente
 GERMÁN LÓPEZ JOSÉ ALBERTO (223219135)
-ISLAS ALCARAZ GENARO
+ISLAS ALCARAZ GENARO (223215520)
 MONROY ALVAREZ ITZEL ALEJANDRA (223209555)
 
 # Declaración del puntaje por el que van: 80%, 100%, Extra (10 puntos)

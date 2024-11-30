@@ -2,12 +2,12 @@
 proyectoFinalDDS3
 
 # Integrantes del equipo y número de expediente
-GERMÁN LÓPEZ JOSÉ ALBERTO
+GERMÁN LÓPEZ JOSÉ ALBERTO (223219135)
 ISLAS ALCARAZ GENARO
-MONROY ALVAREZ ITZEL ALEJANDRA
+MONROY ALVAREZ ITZEL ALEJANDRA (223209555)
 
 # Declaración del puntaje por el que van: 80%, 100%, Extra (10 puntos)
-Vamos por el 80%
+Vamos por el 80% y Extra 
 
 # Declaración de alguna funcionalidad extra agregada
 Para doble verificación, se utilizaron métodos en base a los vistos en clase y utilizando las librerías de cipher.json para codificar/decodificar como también otros métodos adicionales para la encriptación/desencriptación del archivo utilizando AES.
